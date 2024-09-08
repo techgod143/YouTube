@@ -5,15 +5,19 @@ hey there!
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=YouTube+Channel+TECH+GOD;Your+number+got+unban+after;follow+this+step;PROGRAM+By+TECH+GOD" alt="Typing SVG" /></a>
   
-   
-
 
    ## [`WATCH YOUTUBE VIDEOS`](youtube.com/@techgod143)
 
-# And Subscribe to YouTube channel
+# `My Payment method` here 👇 
+## 1.Bank Transfer
+1. Bank name
+-     BANK OF BARODA
+   
+2. account number
+-     33630100011950
+3. IFCO CODE
 
-
-
+-     BARB0RAMBIL
 
 
 
