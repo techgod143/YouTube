@@ -10,22 +10,21 @@ hey there!
 
 # `My Payment method` here 👇 
    - After pay send me Screenshot here[instagram inbox](https://www.instagram.com/techgod143?igsh=MWFiOXo3cjVmN2NkNg==)
-## 1. UPI ID g pay/paytm/phone Pay
+## 1. UPI ID g pay/paytm/phone Pay 💵
 -     techgodsir@okicici
-- 
-## 2.Bank Transfer
-1. My Bank name
+  
+## 2.Bank Transfer 🏦 
+- NAME OF BANK
 -     BANK OF BARODA
-2. My name
--     Vishal babu   
-3. account number
+- My name
+-     VISHAL BABU   
+- account number
 -     33630100011950
-4. IFSC CODE
-
+- IFSC CODE
 -     BARB0RAMBIL
-5. SWIFT/BIC CODE
-
+- SWIFT/BIC CODE
 -     BARBINBBMOR
+
 
 
 
