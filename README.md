@@ -15,10 +15,12 @@ hey there!
    
 2. account number
 -     33630100011950
-3. IFCO CODE
+3. IFSC CODE
 
 -     BARB0RAMBIL
+4. SWIFT/BIC CODE
 
+-     BARBINBBMOR
 
 
 
