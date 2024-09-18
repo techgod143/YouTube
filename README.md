@@ -11,7 +11,7 @@ hey there!
 # `My Payment method` here 👇 
    - After pay send me Screenshot here[instagram inbox](https://www.instagram.com/techgod143?igsh=MWFiOXo3cjVmN2NkNg==)
 ## 1. UPI ID g pay/paytm/phone Pay 💵
--     techgodsir@okicici
+-     techgodsir-1@okicici
   
 ## 2.Bank Transfer 🏦 
 - NAME OF BANK
