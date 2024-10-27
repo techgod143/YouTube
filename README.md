@@ -1,5 +1,6 @@
 # YouTube
 Only for youtube purposes.
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="1000%">
 ## Tech God
 hey there!
 <div align="center">
@@ -7,7 +8,7 @@ hey there!
   
 
    ## [`WATCH YOUTUBE VIDEOS`](youtube.com/@techgod143)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="1000%">
 # `My Payment method` here 👇 
    - After pay send me Screenshot here[instagram inbox](https://www.instagram.com/techgod143?igsh=MWFiOXo3cjVmN2NkNg==)
 ## 1. UPI ID g pay/paytm/phone Pay 💵
