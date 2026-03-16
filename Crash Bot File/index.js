@@ -3,7 +3,7 @@ Youtube Tech God
 */
 const config = `
 HANDLERS=.
-SESSION_ID="Jarvis_d3d4_d896_7cf8_892a"
+SESSION_ID="Jarvis_d08b_2d91_0af1_6fee_bf4f_9efd_34fc_685d"
 SUDO=null
 WORK_TYPE=public
 ALWAYS_ONLINE=true
